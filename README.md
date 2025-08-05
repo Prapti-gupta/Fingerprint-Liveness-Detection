@@ -29,7 +29,6 @@ Biometric authentication systems are increasingly targeted by spoofing attacks u
 - Model export and validation accuracy monitoring  
 
 
----
 
 ## 🧪 Dataset
 
